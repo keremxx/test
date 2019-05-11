@@ -1,1 +1,1 @@
-lig1.duckdns.org:1023:10001:7000
+lig1.duckdns.org:1023
